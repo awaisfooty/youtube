@@ -1,0 +1,398 @@
+/* 
+Theme Name: creative
+Author: Awais
+Description: This is the custom theme for the creative business.
+Version: 1.0.1
+
+*/ 
+.foot{
+    display: flex;
+    width: 100%;
+    gap: 10%;
+}
+.part1{
+    width: 40%;
+}
+.part2{
+    width: 20%;
+}
+.part3{
+    width: 20%;
+}
+.part4{
+    width: 20%;
+}
+.part2 h5{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+.part3 h5{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+.part4 h5{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+.part2 p{
+    color: #b891b1;
+    font-size: 20px;
+    font-weight: 400;
+}
+.part3 p{
+    color: #b891b1;
+    font-size: 20px;
+    font-weight: 400;
+}
+.part4 p{
+    color: #b891b1;
+    font-size: 20px;
+    font-weight: 400;
+}
+.foot-line{
+    height: 1px;
+    width: 100%;
+    background-color: #a280b7;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.foot-rights{
+    text-align: center;
+    color: white;
+}
+.unique h1{
+    color: black;
+    font-size: 45px;
+    font-weight: 700;
+}
+.unique h1 span{
+    color: #0b0561;
+}
+.unique p{
+    color: #8a8a8a;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.unique button{
+    border: #a412ae;
+    background-color: #a412ae;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 8px 18px;
+    border-radius: 10px;
+}
+.unique{
+    margin-top: 100px;
+}
+.unique-img img{
+    height: 340px;
+    width: 400px;
+    border-radius: 20px;
+}
+.unique-box{
+    margin-top: 100px;
+    position: relative;
+}
+.play-bt{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #f3f0f0;
+    border: 1px solid #fdfdfd;
+    position: absolute;
+    top: 130px;
+    right: 180px;
+}
+.play-bt i{
+    margin-left: 40px;
+    margin-top: 35px;
+    font-size: 30px;
+    color: #b70192;
+}
+.service{
+    background-color: #9f19bb;
+}
+.head-service h1{
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+}
+.head-service p{
+    color: white;
+    width: 80%;
+    font-size: 15px;
+    font-weight: 400;
+}
+.web-design{
+    height: 270px;
+    border: 1px solid white;
+    width: 500px;
+    padding: 15px 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: white;
+}
+.icon-ct{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    background-color: #ae018f;
+}
+.icon-ct i{
+    color: white;
+    margin-left: 14px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+.web-design h1{
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.web-design p{
+    color: #737373;
+    font-size: 18px;
+    font-weight: 300;
+}
+.web-design a{
+    color: #a215b3;
+}
+.work h1{
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.work h1 span{
+    color: #a215b3;
+}
+.work p{
+    color: #8a8a8a;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+}
+.dot{
+    height: 30px;
+    width: 70px;
+    margin-top: 40px;
+    border-radius: 50%;
+    background-color: #0b0561;
+}
+
+.logo-work{
+    display: flex;
+    margin-bottom: 30px;
+}
+.logo-work img{
+    height: 80px;
+    width: 100%;
+}
+.some h1{
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.some h1 span{
+    color: #a215b3;
+}
+.some p{
+    color: #8a8a8a;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 180px;
+    margin-right: 180px;
+    font-weight: 500;
+}
+.left-img-box img{
+    height: 300px;
+    width: 440px;
+    border-radius: 40px;
+
+}
+.part-1{
+    margin-top: 40px;
+}
+.part-1 h1{
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    margin-top: 10px;
+}
+.part-1 p{
+    font-size: 15px;
+    font-weight: 300;
+    color: #8a8a8a;
+    margin-right: 100px;
+}
+.part-1 a{
+    color: #454545;
+    font-size: 15px;
+    font-weight: 400;
+}
+.part-1 a:hover{
+    color: #454545;
+}
+.see-all h3{
+    font-size: 30px;
+    font-weight: 500;
+    color: #a215b3;
+    margin-top: 30px;
+    margin-left: 230px;
+}
+.see-all h3 a{
+    text-decoration: none;
+}
+.see-all h3 a:hover{
+    color: #a215b3;
+    
+}
+.question{
+    width: 45%;
+}
+.question h1{
+    color: white;
+    font-weight: 700;
+    font-size: 35px;
+}
+.question p{
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
+.bottom-line{
+    height: 1px;
+    width: 100%;
+    background-color: #a969f5;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.accordien{
+    margin-top: 40px;
+}
+.about{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.about h1{
+    font-weight: 700;
+    color: black;
+    font-size: 40px;
+}
+.about h1 span{
+    color: #9f19bb;
+}
+.about p{
+    color: #737373;
+    font-size: 20px;
+    font-weight: 200;
+}
+.team-cd-1{
+    height: 300px;
+    width: 400px;
+    background-color: #fdfdfd;
+    border-radius: 40px;
+    padding: 20px 30px;
+    margin-top: 40px;
+    border: 2px solid #f9f9f9;
+    width: 90% !important;
+}
+.cd-img{
+    display: flex;
+    gap: 30px;
+}
+.cd-img img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.cd-text h1{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+} 
+.cd-text p{
+    color: #737373;
+}
+.team-cd-1 p{
+    color: #454545;
+    font-size: 18px;
+    font-weight: 200;
+}
+.team-cd-1 i{
+    color: yellowgreen;
+    margin-bottom: 10px;
+}
+.blog{
+    display: flex;
+    justify-content: space-between;
+}
+.blog h1{
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+}
+.blog h1 span{
+    color: #a215b3;
+}
+.blog p{
+    font-size: 15px;
+    font-weight: 200;
+    width: 40%;
+}
+.blog-line{
+    height: 1px;
+    width: 100%;
+    background-color: #a1a1a1;
+    margin-top: 40px;
+    margin-bottom: 30px
+}
+.blog-img img{
+    height: 250px;
+    width: 320px;
+    border-radius: 40px;
+}
+.blog-text h2{
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+.blog-text p{
+    color: #737373;
+    font-size: 15px;
+    font-weight: 400;
+}
+.tags{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+.tags i{
+    margin-left: 10px;
+}
+.part1 p{
+    color: #b891b1;
+    font-size: 15px;
+    font-weight: 300;
+}
+.new-post{
+    width: 100%;
+    height: 100%;
+}
